@@ -27,5 +27,5 @@ else
   end
 endif
 
-colorscheme distinguished
+colorscheme solarized
 set background=dark
